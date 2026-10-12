@@ -4,7 +4,7 @@ Bot de Telegram que divide gastos en partes iguales entre amigos y dice quién l
 
 ## Uso (solo chat privado)
 
-1. Escribile "hola" (o cualquier mensaje sin números): el bot pregunta si querés dividir gastos y explica el formato.
+1. Escribile "hola" (o cualquier mensaje sin números, deberas epeserar 30-45 segundos para que arranque el servidor y reenviar "hola"): el bot pregunta si querés dividir gastos y explica el formato.
 2. Mandale los datos: nombres separados por coma, un punto y los gastos.
 
 ```
